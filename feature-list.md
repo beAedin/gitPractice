@@ -2,4 +2,5 @@
 
 1. 티셔츠 올리기
 2. 티셔츠 구매하기
+\ No newline at end of file
 3. 디테일 페이지 보여주기!
